@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @AdelinaBayanova
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Всем привет!  
 
-<!---
-AdelinaBayanova/AdelinaBayanova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  
+</div>
+
+_Меня зовут Аделина, и я начинающий специалист QA. Я занимаюсь ручным тестированием и стремлюсь развивать свои навыки в этой области._
+
+## My CV 
+
+[Мое резюме](https://ссылочку_сюда)
+
+## Портфолио 
+- Тестовая документация
+  -  [Чек-листы](https://ссылочку_сюда)
+  -  [Тест-кейсы](https://ссылочку_сюда)
+  -  [Баг-репорты](https://ссылочку_сюда)
+- Коллекция в Postman 
+  -  [Название проекта](https://ссылочку_сюда)
+- SQL запросы 
+  -  [Название проекта](https://ссылочку_сюда)
+  
+## Мои контакты
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/adelinailinet)
+
