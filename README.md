@@ -22,5 +22,3 @@ _Меня зовут Аделина, и я начинающий специали
 ## Мои контакты
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/adelinailinet)
-
-<a href="https://example.com" target="_blank">Ссылка на Example</a>
