@@ -12,14 +12,15 @@ _Меня зовут Аделина, и я начинающий специали
 
 ## Портфолио 
 - Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
+  -  [Чек-листы](https://drive.google.com/file/d/1oGy9-SWLmA3R0SI-nQ82Gx4x-5BZgtCR/view?usp=sharing)
+  -  [Тест-кейсы](https://drive.google.com/file/d/1_Nb9417FsdlsCxc4tO7G1s6F7Lf75IAX/view?usp=sharing)
   -  [Баг-репорты](https://ссылочку_сюда)
 - [Postman](https://ссылочку_сюда)
 - [SQL запросы](https://github.com/AdelinaBayanova/SQL-queries)
-- [Проекты на Java](https://github.com/AdelinaBayanova/Java-projects)
+- <a href="https://github.com/AdelinaBayanova/Java-projects" target="_blank">Проекты на Java</a>
   
 ## Мои контакты
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/adelinailinet)
 
+<a href="https://example.com" target="_blank">Ссылка на Example</a>
