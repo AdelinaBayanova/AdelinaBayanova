@@ -16,7 +16,7 @@ _Меня зовут Аделина, и я начинающий специали
   -  [Тест-кейсы](https://ссылочку_сюда)
   -  [Баг-репорты](https://ссылочку_сюда)
 - [Postman](https://ссылочку_сюда)
-- [SQL запросы](https://ссылочку_сюда)
+- [SQL запросы](https://github.com/AdelinaBayanova/SQL-queries)
 - [Проекты на Java](https://github.com/AdelinaBayanova/Java-projects)
   
 ## Мои контакты
