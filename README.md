@@ -14,7 +14,7 @@ _Меня зовут Аделина, и я начинающий специали
 - Тестовая документация
   -  [Чек-листы](https://drive.google.com/file/d/1oGy9-SWLmA3R0SI-nQ82Gx4x-5BZgtCR/view?usp=sharing)
   -  [Тест-кейсы](https://drive.google.com/file/d/1_Nb9417FsdlsCxc4tO7G1s6F7Lf75IAX/view?usp=sharing)
-  -  [Баг-репорты](https://ссылочку_сюда)
+  -  [Баг-репорты](https://drive.google.com/file/d/1t01V2keBNfgY1xMiVDR1JOt-Uftt8S1Z/view?usp=sharing)
 - [Postman](https://ссылочку_сюда)
 - [SQL запросы](https://github.com/AdelinaBayanova/SQL-queries)
 - <a href="https://github.com/AdelinaBayanova/Java-projects" target="_blank">Проекты на Java</a>
