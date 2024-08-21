@@ -8,7 +8,7 @@ _Меня зовут Аделина, и я начинающий специали
 
 ## My CV 
 
-[Мое резюме](https://ссылочку_сюда)
+[Мое резюме](https://drive.google.com/file/d/1jZPMnXFpHsTAtLgbvaxBGU0_wgq1bzcI/view?usp=sharing)
 
 ## Портфолио 
 - Тестовая документация
